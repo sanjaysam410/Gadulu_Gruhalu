@@ -1,0 +1,68 @@
+{
+  "wgl_fort": {
+    "name": "Warangal Fort (వరంగల్ కోట)",
+    "type": "Fortress",
+    "region": "Warangal",
+    "era": "12th Century CE",
+    "contributor_id": "s_rao",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Warangal_Fort_Entrance.jpg",
+    "story": "The fort was the capital of the Kakatiya dynasty. The intricate stone gateways, known as Kakatiya Kala Thoranam, are an architectural marvel and have become a symbol of Telangana.",
+    "tags": [
+      "Kakatiya",
+      "Stone Archway",
+      "Archaeology"
+    ],
+    "comments": [
+      {
+        "user": "Priya K.",
+        "text": "The detail on the arches is incredible!"
+      }
+    ]
+  },
+  "chowmahalla": {
+    "name": "Chowmahalla Palace (చౌమహల్లా ప్యాలెస్)",
+    "type": "Traditional Home (Palace)",
+    "region": "Hyderabad",
+    "era": "18th-19th Century CE",
+    "contributor_id": "priya_k",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Chowmahalla_Palace_Hyderabad_India.jpg/1280px-Chowmahalla_Palace_Hyderabad_India.jpg",
+    "story": "This was the seat of the Asaf Jahi dynasty and the official residence of the Nizams of Hyderabad. Its name means 'Four Palaces'. The grand Khilwat Mubarak hall is breathtaking.",
+    "tags": [
+      "Nizam",
+      "Courtyard",
+      "Palace"
+    ],
+    "comments": []
+  },
+  "golkonda": {
+    "name": "Golkonda",
+    "type": "Traditional Home",
+    "region": "Hyderabad",
+    "era": "11th Century",
+    "contributor_id": "guest",
+    "image": "https://i.imgur.com/sdVn1iA.png",
+    "story": "Golconda is a fortified citadel and ruined city located on the western outskirts of Hyderabad, Telangana, India. The fort was originally built by Kakatiya ruler Pratāparudra in the 11th century out of mud walls",
+    "tags": [
+      "Palace for Mughals"
+    ],
+    "comments": []
+  },
+  "ramappa_temple": {
+    "name": "Ramappa Temple",
+    "type": "Temples",
+    "region": "Warangal",
+    "era": "13th Century",
+    "contributor_id": "divyansh teja",
+    "image": "https://i.imgur.com/sdVn1iA.png",
+    "story": "Ramappa Temple, also known as the Rudreshwara Temple, is a Kakatiya style Hindu temple dedicated to the Hindu god Shiva, located in Palampet village, Mulugu district, Telangana, India. It is 15 km from Mulugu, 66 km from Warangal, 209 km from Hyderabad.",
+    "tags": [
+      "Telugu Historical Architecture",
+      "Shivalayam",
+      "Hindu Temple."
+    ],
+    "comments": []
+  }
+}
+
+
+
